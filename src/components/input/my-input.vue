@@ -1,5 +1,5 @@
 <template>
-    <div class="custom-input">
+    <div class="custom-input" style="width: 100%;">
         <label >{{ label }}</label>
         <input 
           :type="type" 
